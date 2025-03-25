@@ -48,8 +48,6 @@
   --popout-shading: rgba(252, 252, 252, 0.7);
   --modal-shading: rgba(252, 252, 252, 0.5);
   --input-shading: rgba(0, 0, 0, 0.3);
-  --normal-text: rgba(255,255,255,0.3);
-  --muted-text: rgba(255,255,255,0.1);
 }
 
 /* GREY THEME / DARK THEME IN OLD UI */
@@ -70,8 +68,6 @@
   --popout-shading: rgba(0, 0, 0, 0.7);
   --modal-shading: rgba(0, 0, 0, 0.5);
   --input-shading: rgba(255, 255, 255, 0.05);
-  --normal-text: rgba(255,255,255,0.3);
-  --muted-text: rgba(255,255,255,0.1);
 }
 
 /* MIDNIGHT THEME - NEW UI EXCLUSIVE */
@@ -82,8 +78,6 @@
   --popout-shading: rgba(0, 0, 0, 0.8);
   --modal-shading: rgba(0, 0, 0, 0.6);
   --input-shading: rgba(255, 255, 255, 0.05);
-  --normal-text: rgba(255,255,255,0.3);
-  --muted-text: rgba(255,255,255,0.1);
 }
 
 /* ADD ADDITIONAL CSS BELOW HERE */
