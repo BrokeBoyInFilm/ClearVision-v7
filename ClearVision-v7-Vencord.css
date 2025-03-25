@@ -1,15 +1,13 @@
 /**
- * @name ClearVision V7 for Vencord
- * @author ClearVision Team
+ * @name Pablo Theme for Discord
+ * @author YEezus
  * @version 7.0.0 pre
- * @description Highly customizable theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v7
- * @website https://clearvision.github.io
- * @invite dHaSxn3
+ * @description TLOP theme for Discord
+ * @source https://github.com/BrokeBoyInFilm/ClearVision-v7
  */
 /* IMPORT CSS */
-@import url("https://clearvision.github.io/ClearVision-v7/main.css");
-@import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
+@import url("https://brokeboyinfilm.github.io/ClearVision-v7/main.css");
+@import url("https://brokeboyinfilm.github.io/ClearVision-v7/betterdiscord.css");
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
