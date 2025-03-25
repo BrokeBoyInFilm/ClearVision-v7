@@ -1,6 +1,6 @@
 /**
  * @name Pablo Theme for Discord
- * @author YEezus
+ * @author Yeezus
  * @version 7.0.0 pre
  * @description TLOP theme for Discord
  * @source https://github.com/BrokeBoyInFilm/ClearVision-v7
@@ -48,8 +48,8 @@
   --popout-shading: rgba(252, 252, 252, 0.7);
   --modal-shading: rgba(252, 252, 252, 0.5);
   --input-shading: rgba(0, 0, 0, 0.3);
-  --normal-text: #fffcfb;
-  --muted-text: #75757e;
+  --normal-text: #e3cfbb;
+  --muted-text: #a87d40;
 }
 
 /* GREY THEME / DARK THEME IN OLD UI */
@@ -60,8 +60,8 @@
   --popout-shading: rgba(0, 0, 0, 0.6);
   --modal-shading: rgba(0, 0, 0, 0.4);
   --input-shading: rgba(255, 255, 255, 0.05);
-  --normal-text: #fffcfb;
-  --muted-text: #b77642;
+  --normal-text: #e3cfbb;
+  --muted-text: #a87d40;
 }
 
 /* DARK THEME - NEW UI EXCLUSIVE */
@@ -72,8 +72,8 @@
   --popout-shading: rgba(0, 0, 0, 0.7);
   --modal-shading: rgba(0, 0, 0, 0.5);
   --input-shading: rgba(255, 255, 255, 0.05);
-  --normal-text: #fffcfb;
-  --muted-text: #b77642;
+  --normal-text: #e3cfbb;
+  --muted-text: #a87d40;
 }
 
 /* MIDNIGHT THEME - NEW UI EXCLUSIVE */
@@ -84,8 +84,8 @@
   --popout-shading: rgba(0, 0, 0, 0.8);
   --modal-shading: rgba(0, 0, 0, 0.6);
   --input-shading: rgba(255, 255, 255, 0.05);
-  --normal-text: #fffcfb;
-  --muted-text: #b77642;
+  --normal-text: #e3cfbb;
+  --muted-text: #a87d40;
 }
 
 /* ADD ADDITIONAL CSS BELOW HERE */
