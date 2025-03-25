@@ -48,8 +48,8 @@
   --popout-shading: rgba(252, 252, 252, 0.7);
   --modal-shading: rgba(252, 252, 252, 0.5);
   --input-shading: rgba(0, 0, 0, 0.3);
-  --normal-text: #e3cfbb;
-  --muted-text: #a87d40;
+  --normal-text: #e4cdb8;
+  --muted-text: #88673e;
 }
 
 /* GREY THEME / DARK THEME IN OLD UI */
@@ -60,8 +60,8 @@
   --popout-shading: rgba(0, 0, 0, 0.6);
   --modal-shading: rgba(0, 0, 0, 0.4);
   --input-shading: rgba(255, 255, 255, 0.05);
-  --normal-text: #e3cfbb;
-  --muted-text: #a87d40;
+  --normal-text: #e4cdb8;
+  --muted-text: #88673e;
 }
 
 /* DARK THEME - NEW UI EXCLUSIVE */
@@ -72,8 +72,8 @@
   --popout-shading: rgba(0, 0, 0, 0.7);
   --modal-shading: rgba(0, 0, 0, 0.5);
   --input-shading: rgba(255, 255, 255, 0.05);
-  --normal-text: #e3cfbb;
-  --muted-text: #a87d40;
+  --normal-text: #e4cdb8;
+  --muted-text: #88673e;
 }
 
 /* MIDNIGHT THEME - NEW UI EXCLUSIVE */
@@ -84,8 +84,8 @@
   --popout-shading: rgba(0, 0, 0, 0.8);
   --modal-shading: rgba(0, 0, 0, 0.6);
   --input-shading: rgba(255, 255, 255, 0.05);
-  --normal-text: #e3cfbb;
-  --muted-text: #a87d40;
+  --normal-text: #e4cdb8;
+  --muted-text: #88673e;
 }
 
 /* ADD ADDITIONAL CSS BELOW HERE */
