@@ -11,8 +11,8 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #a35206;
-  --hover-color: #fc7a05;
+  --main-color: #a25306;
+  --hover-color: #fd7a05;
   --success-color: #43b581;
   --danger-color: #982929;
   /* STATUS COLORS */
@@ -43,49 +43,49 @@
 /* LIGHT THEME */
 :is(.theme-light, .theme-dark .theme-light) {
   --background-shading: rgba(252, 252, 252, 0.3);
-  --background-shading-percent: 100%;
+  --background-shading-percent: 60%;
   --card-shading: rgba(252, 252, 252, 0.3);
   --popout-shading: rgba(252, 252, 252, 0.7);
   --modal-shading: rgba(252, 252, 252, 0.5);
   --input-shading: rgba(0, 0, 0, 0.3);
-  --normal-text: #e4cdb8;
-  --muted-text: #88673e;
+  --normal-text: rgba(255,255,255,0.3);
+  --muted-text: rgba(255,255,255,0.1);
 }
 
 /* GREY THEME / DARK THEME IN OLD UI */
 :is(.theme-dark, .theme-light .theme-dark) {
   --background-shading: rgba(0, 0, 0, 0.4);
-  --background-shading-percent: 100%;
+  --background-shading-percent: 60%;
   --card-shading: rgba(0, 0, 0, 0.3);
   --popout-shading: rgba(0, 0, 0, 0.6);
   --modal-shading: rgba(0, 0, 0, 0.4);
   --input-shading: rgba(255, 255, 255, 0.05);
-  --normal-text: #e4cdb8;
-  --muted-text: #88673e;
+  --normal-text: rgba(255,255,255,0.3);
+  --muted-text: rgba(255,255,255,0.1);
 }
 
 /* DARK THEME - NEW UI EXCLUSIVE */
 :is(.theme-darker, .theme-light .theme-darker) {
   --background-shading: rgba(0, 0, 0, 0.6);
-  --background-shading-percent: 100%;
+  --background-shading-percent: 60%;
   --card-shading: rgba(0, 0, 0, 0.4);
   --popout-shading: rgba(0, 0, 0, 0.7);
   --modal-shading: rgba(0, 0, 0, 0.5);
   --input-shading: rgba(255, 255, 255, 0.05);
-  --normal-text: #e4cdb8;
-  --muted-text: #88673e;
+  --normal-text: rgba(255,255,255,0.3);
+  --muted-text: rgba(255,255,255,0.1);
 }
 
 /* MIDNIGHT THEME - NEW UI EXCLUSIVE */
 :is(.theme-midnight, .theme-light .theme-midnight) {
   --background-shading: rgba(0, 0, 0, 0.8);
-  --background-shading-percent: 100%;
+  --background-shading-percent: 60%;
   --card-shading: rgba(0, 0, 0, 0.5);
   --popout-shading: rgba(0, 0, 0, 0.8);
   --modal-shading: rgba(0, 0, 0, 0.6);
   --input-shading: rgba(255, 255, 255, 0.05);
-  --normal-text: #e4cdb8;
-  --muted-text: #88673e;
+  --normal-text: rgba(255,255,255,0.3);
+  --muted-text: rgba(255,255,255,0.1);
 }
 
 /* ADD ADDITIONAL CSS BELOW HERE */
